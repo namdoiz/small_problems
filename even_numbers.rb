@@ -1,4 +1,4 @@
 range = (1..99)
 range.each do |x|
-  puts x if x.odd?
+  puts x if x.even?
 end
